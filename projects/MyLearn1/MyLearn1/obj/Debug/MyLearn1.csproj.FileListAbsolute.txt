@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\MyLearn1\MyLearn1\bin\Debug\MyLearn1.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\MyLearn1\MyLearn1\bin\Debug\MyLearn1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\MyLearn1\MyLearn1\bin\Debug\MyLearn1.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\MyLearn1\MyLearn1\obj\Debug\MyLearn1.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\MyLearn1\MyLearn1\obj\Debug\MyLearn1.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\MyLearn1\MyLearn1\obj\Debug\MyLearn1.pdb

@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\DataWordParams\DataWordParams\bin\Debug\DataWordParams.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\DataWordParams\DataWordParams\bin\Debug\DataWordParams.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataWordParams\DataWordParams\bin\Debug\DataWordParams.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\DataWordParams\DataWordParams\obj\Debug\DataWordParams.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DataWordParams\DataWordParams\obj\Debug\DataWordParams.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataWordParams\DataWordParams\obj\Debug\DataWordParams.pdb

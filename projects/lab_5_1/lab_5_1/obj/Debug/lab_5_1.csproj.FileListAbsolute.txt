@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\lab_5_1\lab_5_1\bin\Debug\lab_5_1.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\lab_5_1\lab_5_1\bin\Debug\lab_5_1.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\lab_5_1\lab_5_1\bin\Debug\lab_5_1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\lab_5_1\lab_5_1\obj\Debug\lab_5_1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\lab_5_1\lab_5_1\obj\Debug\lab_5_1.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\lab_5_1\lab_5_1\obj\Debug\lab_5_1.pdb

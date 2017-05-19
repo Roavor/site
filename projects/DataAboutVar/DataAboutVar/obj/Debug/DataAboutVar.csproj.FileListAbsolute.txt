@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\DataAboutVar\DataAboutVar\bin\Debug\DataAboutVar.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\DataAboutVar\DataAboutVar\bin\Debug\DataAboutVar.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataAboutVar\DataAboutVar\bin\Debug\DataAboutVar.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\DataAboutVar\DataAboutVar\obj\Debug\DataAboutVar.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DataAboutVar\DataAboutVar\obj\Debug\DataAboutVar.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataAboutVar\DataAboutVar\obj\Debug\DataAboutVar.pdb

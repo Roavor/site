@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\GetValueOfTypeFromDataBase\GetValueOfTypeFromDataBase\bin\Debug\GetValueOfTypeFromDataBase.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\GetValueOfTypeFromDataBase\GetValueOfTypeFromDataBase\bin\Debug\GetValueOfTypeFromDataBase.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\GetValueOfTypeFromDataBase\GetValueOfTypeFromDataBase\bin\Debug\GetValueOfTypeFromDataBase.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\GetValueOfTypeFromDataBase\GetValueOfTypeFromDataBase\obj\Debug\GetValueOfTypeFromDataBase.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\GetValueOfTypeFromDataBase\GetValueOfTypeFromDataBase\obj\Debug\GetValueOfTypeFromDataBase.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\GetValueOfTypeFromDataBase\GetValueOfTypeFromDataBase\obj\Debug\GetValueOfTypeFromDataBase.pdb

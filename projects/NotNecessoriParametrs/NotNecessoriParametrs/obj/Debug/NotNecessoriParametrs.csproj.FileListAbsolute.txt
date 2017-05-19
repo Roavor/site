@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\NotNecessoriParametrs\NotNecessoriParametrs\bin\Debug\NotNecessoriParametrs.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\NotNecessoriParametrs\NotNecessoriParametrs\bin\Debug\NotNecessoriParametrs.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NotNecessoriParametrs\NotNecessoriParametrs\bin\Debug\NotNecessoriParametrs.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\NotNecessoriParametrs\NotNecessoriParametrs\obj\Debug\NotNecessoriParametrs.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\NotNecessoriParametrs\NotNecessoriParametrs\obj\Debug\NotNecessoriParametrs.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NotNecessoriParametrs\NotNecessoriParametrs\obj\Debug\NotNecessoriParametrs.pdb

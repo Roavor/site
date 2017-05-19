@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\lab02_3\lab02_3\bin\Debug\lab02_3.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\lab02_3\lab02_3\bin\Debug\lab02_3.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\lab02_3\lab02_3\bin\Debug\lab02_3.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\lab02_3\lab02_3\obj\Debug\lab02_3.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\lab02_3\lab02_3\obj\Debug\lab02_3.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\lab02_3\lab02_3\obj\Debug\lab02_3.pdb

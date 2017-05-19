@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\bin\Debug\FunWithEnum.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\bin\Debug\FunWithEnum.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\bin\Debug\FunWithEnum.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\obj\Debug\FunWithEnum.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\obj\Debug\FunWithEnum.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithEnum\FunWithEnum\obj\Debug\FunWithEnum.pdb

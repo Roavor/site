@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\JaggedMultidimensionalArray\JaggedMultidimensionalArray\bin\Debug\JaggedMultidimensionalArray.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\JaggedMultidimensionalArray\JaggedMultidimensionalArray\bin\Debug\JaggedMultidimensionalArray.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\JaggedMultidimensionalArray\JaggedMultidimensionalArray\bin\Debug\JaggedMultidimensionalArray.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\JaggedMultidimensionalArray\JaggedMultidimensionalArray\obj\Debug\JaggedMultidimensionalArray.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\JaggedMultidimensionalArray\JaggedMultidimensionalArray\obj\Debug\JaggedMultidimensionalArray.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\JaggedMultidimensionalArray\JaggedMultidimensionalArray\obj\Debug\JaggedMultidimensionalArray.pdb

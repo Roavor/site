@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfTesterApp\WpfTesterApp\bin\Debug\WpfTesterApp.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\bin\Debug\WpfTesterApp.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\bin\Debug\WpfTesterApp.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\WpfTesterApp.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\App.g.cs
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\WpfTesterApp_MarkupCompile.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\WpfTesterApp_MarkupCompile.lref
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\WpfTesterApp.g.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\WpfTesterApp.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\WpfTesterApp.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\WpfTesterApp.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\WpfTesterApp\WpfTesterApp\obj\Debug\WpfTesterApp.pdb

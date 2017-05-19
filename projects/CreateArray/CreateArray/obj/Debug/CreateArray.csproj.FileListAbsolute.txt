@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\CreateArray\CreateArray\bin\Debug\CreateArray.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\CreateArray\CreateArray\bin\Debug\CreateArray.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\CreateArray\CreateArray\bin\Debug\CreateArray.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\CreateArray\CreateArray\obj\Debug\CreateArray.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\CreateArray\CreateArray\obj\Debug\CreateArray.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\CreateArray\CreateArray\obj\Debug\CreateArray.pdb

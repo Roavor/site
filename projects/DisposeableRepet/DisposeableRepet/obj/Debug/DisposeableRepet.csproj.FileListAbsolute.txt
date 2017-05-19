@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\DisposeableRepet\DisposeableRepet\bin\Debug\DisposeableRepet.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\DisposeableRepet\DisposeableRepet\bin\Debug\DisposeableRepet.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DisposeableRepet\DisposeableRepet\bin\Debug\DisposeableRepet.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\DisposeableRepet\DisposeableRepet\obj\Debug\DisposeableRepet.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DisposeableRepet\DisposeableRepet\obj\Debug\DisposeableRepet.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DisposeableRepet\DisposeableRepet\obj\Debug\DisposeableRepet.pdb

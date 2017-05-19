@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\BigInteger\BigInteger\bin\Debug\BigInteger.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\BigInteger\BigInteger\bin\Debug\BigInteger.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\BigInteger\BigInteger\bin\Debug\BigInteger.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\BigInteger\BigInteger\obj\Debug\BigInteger.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\BigInteger\BigInteger\obj\Debug\BigInteger.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\BigInteger\BigInteger\obj\Debug\BigInteger.pdb

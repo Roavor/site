@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\CharFunctoinalityData\CharFunctoinalityData\bin\Debug\CharFunctoinalityData.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\CharFunctoinalityData\CharFunctoinalityData\bin\Debug\CharFunctoinalityData.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\CharFunctoinalityData\CharFunctoinalityData\bin\Debug\CharFunctoinalityData.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\CharFunctoinalityData\CharFunctoinalityData\obj\Debug\CharFunctoinalityData.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\CharFunctoinalityData\CharFunctoinalityData\obj\Debug\CharFunctoinalityData.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\CharFunctoinalityData\CharFunctoinalityData\obj\Debug\CharFunctoinalityData.pdb

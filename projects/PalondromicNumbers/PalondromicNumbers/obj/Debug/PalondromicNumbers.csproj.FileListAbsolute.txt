@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\PalondromicNumbers\PalondromicNumbers\bin\Debug\PalondromicNumbers.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\PalondromicNumbers\PalondromicNumbers\bin\Debug\PalondromicNumbers.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\PalondromicNumbers\PalondromicNumbers\bin\Debug\PalondromicNumbers.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\PalondromicNumbers\PalondromicNumbers\obj\Debug\PalondromicNumbers.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\PalondromicNumbers\PalondromicNumbers\obj\Debug\PalondromicNumbers.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\PalondromicNumbers\PalondromicNumbers\obj\Debug\PalondromicNumbers.pdb

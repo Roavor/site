@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RefTypeVaiTypeParams\RefTypeVaiTypeParams\bin\Debug\RefTypeVaiTypeParams.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\RefTypeVaiTypeParams\RefTypeVaiTypeParams\bin\Debug\RefTypeVaiTypeParams.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RefTypeVaiTypeParams\RefTypeVaiTypeParams\bin\Debug\RefTypeVaiTypeParams.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\RefTypeVaiTypeParams\RefTypeVaiTypeParams\obj\Debug\RefTypeVaiTypeParams.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\RefTypeVaiTypeParams\RefTypeVaiTypeParams\obj\Debug\RefTypeVaiTypeParams.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RefTypeVaiTypeParams\RefTypeVaiTypeParams\obj\Debug\RefTypeVaiTypeParams.pdb

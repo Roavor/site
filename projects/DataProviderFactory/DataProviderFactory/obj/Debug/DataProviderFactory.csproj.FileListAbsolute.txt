@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataProviderFactory\DataProviderFactory\bin\Debug\DataProviderFactory.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataProviderFactory\DataProviderFactory\obj\Debug\DataProviderFactory.pdb

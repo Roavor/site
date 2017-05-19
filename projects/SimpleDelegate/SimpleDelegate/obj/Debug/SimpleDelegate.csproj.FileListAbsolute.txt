@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

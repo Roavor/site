@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\FormatNumericalData\FormatNumericalData\bin\Debug\FormatNumericalData.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\FormatNumericalData\FormatNumericalData\bin\Debug\FormatNumericalData.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FormatNumericalData\FormatNumericalData\bin\Debug\FormatNumericalData.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\FormatNumericalData\FormatNumericalData\obj\Debug\FormatNumericalData.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\FormatNumericalData\FormatNumericalData\obj\Debug\FormatNumericalData.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FormatNumericalData\FormatNumericalData\obj\Debug\FormatNumericalData.pdb

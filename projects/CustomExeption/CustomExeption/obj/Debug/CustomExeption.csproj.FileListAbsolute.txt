@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\CustomExeption\CustomExeption\bin\Debug\CustomExeption.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\CustomExeption\CustomExeption\bin\Debug\CustomExeption.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\CustomExeption\CustomExeption\bin\Debug\CustomExeption.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\CustomExeption\CustomExeption\obj\Debug\CustomExeption.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\CustomExeption\CustomExeption\obj\Debug\CustomExeption.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\CustomExeption\CustomExeption\obj\Debug\CustomExeption.pdb

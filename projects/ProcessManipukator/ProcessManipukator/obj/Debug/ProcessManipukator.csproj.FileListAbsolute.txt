@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ProcessManipukator\ProcessManipukator\bin\Debug\ProcessManipukator.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ProcessManipukator\ProcessManipukator\obj\Debug\ProcessManipukator.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ProcessManipukator\ProcessManipukator\bin\Debug\ProcessManipukator.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ProcessManipukator\ProcessManipukator\bin\Debug\ProcessManipukator.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ProcessManipukator\ProcessManipukator\obj\Debug\ProcessManipukator.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ProcessManipukator\ProcessManipukator\obj\Debug\ProcessManipukator.pdb

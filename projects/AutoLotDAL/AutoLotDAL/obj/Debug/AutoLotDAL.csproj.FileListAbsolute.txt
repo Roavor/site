@@ -1,0 +1,5 @@
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDAL\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDAL\AutoLotDAL\obj\Debug\AutoLotDAL.pdb

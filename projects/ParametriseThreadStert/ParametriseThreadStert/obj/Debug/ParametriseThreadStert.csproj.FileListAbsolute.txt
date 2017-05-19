@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ParametriseThreadStert\ParametriseThreadStert\bin\Debug\ParametriseThreadStert.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ParametriseThreadStert\ParametriseThreadStert\bin\Debug\ParametriseThreadStert.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ParametriseThreadStert\ParametriseThreadStert\bin\Debug\ParametriseThreadStert.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ParametriseThreadStert\ParametriseThreadStert\obj\Debug\ParametriseThreadStert.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ParametriseThreadStert\ParametriseThreadStert\obj\Debug\ParametriseThreadStert.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ParametriseThreadStert\ParametriseThreadStert\obj\Debug\ParametriseThreadStert.pdb

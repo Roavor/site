@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithRef\FunWithRef\bin\Debug\FunWithRef.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithRef\FunWithRef\bin\Debug\FunWithRef.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithRef\FunWithRef\bin\Debug\FunWithRef.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithRef\FunWithRef\obj\Debug\FunWithRef.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithRef\FunWithRef\obj\Debug\FunWithRef.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FunWithRef\FunWithRef\obj\Debug\FunWithRef.pdb

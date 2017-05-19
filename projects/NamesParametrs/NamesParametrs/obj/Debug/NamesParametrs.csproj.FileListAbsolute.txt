@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\NamesParametrs\NamesParametrs\bin\Debug\NamesParametrs.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\NamesParametrs\NamesParametrs\bin\Debug\NamesParametrs.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NamesParametrs\NamesParametrs\bin\Debug\NamesParametrs.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\NamesParametrs\NamesParametrs\obj\Debug\NamesParametrs.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\NamesParametrs\NamesParametrs\obj\Debug\NamesParametrs.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NamesParametrs\NamesParametrs\obj\Debug\NamesParametrs.pdb

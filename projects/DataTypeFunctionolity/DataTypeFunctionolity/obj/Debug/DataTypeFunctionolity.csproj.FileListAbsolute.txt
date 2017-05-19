@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\DataTypeFunctionolity\DataTypeFunctionolity\bin\Debug\DataTypeFunctionolity.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\DataTypeFunctionolity\DataTypeFunctionolity\bin\Debug\DataTypeFunctionolity.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataTypeFunctionolity\DataTypeFunctionolity\bin\Debug\DataTypeFunctionolity.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\DataTypeFunctionolity\DataTypeFunctionolity\obj\Debug\DataTypeFunctionolity.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DataTypeFunctionolity\DataTypeFunctionolity\obj\Debug\DataTypeFunctionolity.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataTypeFunctionolity\DataTypeFunctionolity\obj\Debug\DataTypeFunctionolity.pdb

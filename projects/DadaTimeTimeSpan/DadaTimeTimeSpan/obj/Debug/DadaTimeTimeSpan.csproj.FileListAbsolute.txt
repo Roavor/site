@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\DadaTimeTimeSpan\DadaTimeTimeSpan\bin\Debug\DadaTimeTimeSpan.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\DadaTimeTimeSpan\DadaTimeTimeSpan\bin\Debug\DadaTimeTimeSpan.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DadaTimeTimeSpan\DadaTimeTimeSpan\bin\Debug\DadaTimeTimeSpan.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\DadaTimeTimeSpan\DadaTimeTimeSpan\obj\Debug\DadaTimeTimeSpan.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DadaTimeTimeSpan\DadaTimeTimeSpan\obj\Debug\DadaTimeTimeSpan.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DadaTimeTimeSpan\DadaTimeTimeSpan\obj\Debug\DadaTimeTimeSpan.pdb

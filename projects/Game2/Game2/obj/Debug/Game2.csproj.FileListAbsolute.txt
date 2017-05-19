@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Game2\Game2\bin\Debug\Game2.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Game2\Game2\obj\Debug\Game2.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Game2\Game2\bin\Debug\Game2.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Game2\Game2\bin\Debug\Game2.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Game2\Game2\obj\Debug\Game2.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Game2\Game2\obj\Debug\Game2.pdb

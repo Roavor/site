@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\CharsOfString\CharsOfString\bin\Debug\CharsOfString.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\CharsOfString\CharsOfString\bin\Debug\CharsOfString.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\CharsOfString\CharsOfString\bin\Debug\CharsOfString.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\CharsOfString\CharsOfString\obj\Debug\CharsOfString.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\CharsOfString\CharsOfString\obj\Debug\CharsOfString.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\CharsOfString\CharsOfString\obj\Debug\CharsOfString.pdb

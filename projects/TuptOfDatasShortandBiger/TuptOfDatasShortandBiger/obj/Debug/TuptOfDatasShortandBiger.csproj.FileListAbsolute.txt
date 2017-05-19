@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\TuptOfDatasShortandBiger\TuptOfDatasShortandBiger\bin\Debug\TuptOfDatasShortandBiger.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\TuptOfDatasShortandBiger\TuptOfDatasShortandBiger\bin\Debug\TuptOfDatasShortandBiger.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\TuptOfDatasShortandBiger\TuptOfDatasShortandBiger\bin\Debug\TuptOfDatasShortandBiger.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\TuptOfDatasShortandBiger\TuptOfDatasShortandBiger\obj\Debug\TuptOfDatasShortandBiger.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\TuptOfDatasShortandBiger\TuptOfDatasShortandBiger\obj\Debug\TuptOfDatasShortandBiger.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\TuptOfDatasShortandBiger\TuptOfDatasShortandBiger\obj\Debug\TuptOfDatasShortandBiger.pdb

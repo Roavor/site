@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ObjectOverrides\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ObjectOverrides\ObjectOverrides\obj\Debug\ObjectOverrides.pdb

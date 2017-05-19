@@ -1,0 +1,1 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\CodeBaseClient\CodeBaseClient\bin\Debug\CodeBaseClient.exe.config

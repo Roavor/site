@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WordCheked\WordCheked\bin\Debug\WordCheked.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\WordCheked\WordCheked\bin\Debug\WordCheked.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WordCheked\WordCheked\bin\Debug\WordCheked.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WordCheked\WordCheked\obj\Debug\WordCheked.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WordCheked\WordCheked\obj\Debug\WordCheked.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WordCheked\WordCheked\obj\Debug\WordCheked.pdb

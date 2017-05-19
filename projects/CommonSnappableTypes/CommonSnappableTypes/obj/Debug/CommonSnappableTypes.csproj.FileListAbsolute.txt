@@ -1,0 +1,5 @@
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\CommonSnappableTypes\CommonSnappableTypes\bin\Debug\CommonSnappableTypes.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\CommonSnappableTypes\CommonSnappableTypes\obj\Debug\CommonSnappableTypes.pdb

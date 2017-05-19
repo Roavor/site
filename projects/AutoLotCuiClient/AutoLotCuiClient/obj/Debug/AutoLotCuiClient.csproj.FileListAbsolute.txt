@@ -1,0 +1,8 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\AutoLotCuiClient\AutoLotCuiClient\bin\Debug\AutoLotCuiClient.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\AutoLotCuiClient\AutoLotCuiClient\obj\Debug\AutoLotCuiClient.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\AutoLotCuiClient\AutoLotCuiClient\bin\Debug\AutoLotCuiClient.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\AutoLotCuiClient\AutoLotCuiClient\bin\Debug\AutoLotCuiClient.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\AutoLotCuiClient\AutoLotCuiClient\bin\Debug\AutoLotDAL.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\AutoLotCuiClient\AutoLotCuiClient\bin\Debug\AutoLotDAL.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\AutoLotCuiClient\AutoLotCuiClient\obj\Debug\AutoLotCuiClient.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\AutoLotCuiClient\AutoLotCuiClient\obj\Debug\AutoLotCuiClient.pdb

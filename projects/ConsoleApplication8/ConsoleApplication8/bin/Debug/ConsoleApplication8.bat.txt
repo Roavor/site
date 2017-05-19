@@ -1,0 +1,15 @@
+@echo off
+rem Пакетный файл для приложения ConsoleApplication8.exe,
+rem который захватывает возвращает захватываемое им значение.
+
+ConsoleApplication8
+@if "%ERRORLEVEL%"=="0" goto succes
+
+:fail
+rem Выполнение этого приложения не удалось!
+echo This application has failed!
+echo return value = %ERRORLEVEL%
+goto end
+:end
+rem Все готово.
+echo All Done

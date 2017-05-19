@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\bin\Debug\WpfConnectionToSQL.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\WpfConnectionToSQL.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\WpfConnectionToSQL_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\WpfConnectionToSQL_MarkupCompile.lref
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\bin\Debug\WpfConnectionToSQL.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\bin\Debug\WpfConnectionToSQL.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\WpfConnectionToSQL.g.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\WpfConnectionToSQL.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\WpfConnectionToSQL.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\WpfConnectionToSQL.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WpfConnectionToSQL\WpfConnectionToSQL\obj\Debug\WpfConnectionToSQL.pdb

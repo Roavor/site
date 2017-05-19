@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\UsefulFromVar\UsefulFromVar\bin\Debug\UsefulFromVar.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\UsefulFromVar\UsefulFromVar\bin\Debug\UsefulFromVar.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\UsefulFromVar\UsefulFromVar\bin\Debug\UsefulFromVar.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\UsefulFromVar\UsefulFromVar\obj\Debug\UsefulFromVar.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\UsefulFromVar\UsefulFromVar\obj\Debug\UsefulFromVar.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\UsefulFromVar\UsefulFromVar\obj\Debug\UsefulFromVar.pdb

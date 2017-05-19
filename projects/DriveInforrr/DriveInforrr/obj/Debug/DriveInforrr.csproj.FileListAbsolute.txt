@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\DriveInforrr\DriveInforrr\bin\Debug\DriveInforrr.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\DriveInforrr\DriveInforrr\bin\Debug\DriveInforrr.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DriveInforrr\DriveInforrr\bin\Debug\DriveInforrr.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\DriveInforrr\DriveInforrr\obj\Debug\DriveInforrr.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DriveInforrr\DriveInforrr\obj\Debug\DriveInforrr.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DriveInforrr\DriveInforrr\obj\Debug\DriveInforrr.pdb

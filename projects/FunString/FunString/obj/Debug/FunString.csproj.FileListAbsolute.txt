@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\FunString\FunString\bin\Debug\FunString.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\FunString\FunString\bin\Debug\FunString.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FunString\FunString\bin\Debug\FunString.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\FunString\FunString\obj\Debug\FunString.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\FunString\FunString\obj\Debug\FunString.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\FunString\FunString\obj\Debug\FunString.pdb

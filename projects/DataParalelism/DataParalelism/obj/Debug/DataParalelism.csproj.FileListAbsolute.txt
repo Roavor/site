@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\DataParalelism\DataParalelism\bin\Debug\DataParalelism.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\DataParalelism\DataParalelism\bin\Debug\DataParalelism.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataParalelism\DataParalelism\bin\Debug\DataParalelism.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\DataParalelism\DataParalelism\obj\Debug\DataParalelism.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DataParalelism\DataParalelism\obj\Debug\DataParalelism.MainForm1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\DataParalelism\DataParalelism\obj\Debug\DataParalelism.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\DataParalelism\DataParalelism\obj\Debug\DataParalelism.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\DataParalelism\DataParalelism\obj\Debug\DataParalelism.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\DataParalelism\DataParalelism\obj\Debug\DataParalelism.pdb

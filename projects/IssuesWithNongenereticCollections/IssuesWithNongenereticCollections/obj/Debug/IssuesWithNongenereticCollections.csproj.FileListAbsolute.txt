@@ -1,0 +1,1 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\IssuesWithNongenereticCollections\IssuesWithNongenereticCollections\bin\Debug\IssuesWithNongenereticCollections.exe.config

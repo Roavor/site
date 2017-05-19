@@ -1,0 +1,8 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\AdoNetTacsaction\AdoNetTacsaction\bin\Debug\AdoNetTacsaction.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\AdoNetTacsaction\AdoNetTacsaction\bin\Debug\AdoNetTacsaction.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\AdoNetTacsaction\AdoNetTacsaction\bin\Debug\AdoNetTacsaction.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\AdoNetTacsaction\AdoNetTacsaction\bin\Debug\AutoLotDAL.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\AdoNetTacsaction\AdoNetTacsaction\bin\Debug\AutoLotDAL.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\AdoNetTacsaction\AdoNetTacsaction\obj\Debug\AdoNetTacsaction.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\AdoNetTacsaction\AdoNetTacsaction\obj\Debug\AdoNetTacsaction.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\AdoNetTacsaction\AdoNetTacsaction\obj\Debug\AdoNetTacsaction.pdb

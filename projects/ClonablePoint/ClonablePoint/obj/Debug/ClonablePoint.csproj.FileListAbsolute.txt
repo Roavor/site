@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ClonablePoint\ClonablePoint\bin\Debug\ClonablePoint.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ClonablePoint\ClonablePoint\obj\Debug\ClonablePoint.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ClonablePoint\ClonablePoint\bin\Debug\ClonablePoint.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ClonablePoint\ClonablePoint\bin\Debug\ClonablePoint.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ClonablePoint\ClonablePoint\obj\Debug\ClonablePoint.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ClonablePoint\ClonablePoint\obj\Debug\ClonablePoint.pdb

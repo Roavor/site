@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\NewMethotStringBuilder\NewMethotStringBuilder\bin\Debug\NewMethotStringBuilder.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\NewMethotStringBuilder\NewMethotStringBuilder\bin\Debug\NewMethotStringBuilder.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NewMethotStringBuilder\NewMethotStringBuilder\bin\Debug\NewMethotStringBuilder.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\NewMethotStringBuilder\NewMethotStringBuilder\obj\Debug\NewMethotStringBuilder.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\NewMethotStringBuilder\NewMethotStringBuilder\obj\Debug\NewMethotStringBuilder.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\NewMethotStringBuilder\NewMethotStringBuilder\obj\Debug\NewMethotStringBuilder.pdb

@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb

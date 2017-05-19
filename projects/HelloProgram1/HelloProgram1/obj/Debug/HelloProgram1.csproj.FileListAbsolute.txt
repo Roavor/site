@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\HelloProgram1\HelloProgram1\bin\Debug\HelloProgram1.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\HelloProgram1\HelloProgram1\bin\Debug\HelloProgram1.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\HelloProgram1\HelloProgram1\bin\Debug\HelloProgram1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\HelloProgram1\HelloProgram1\obj\Debug\HelloProgram1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\HelloProgram1\HelloProgram1\obj\Debug\HelloProgram1.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\HelloProgram1\HelloProgram1\obj\Debug\HelloProgram1.pdb

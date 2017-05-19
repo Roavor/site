@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\TypesData\TypesData\bin\Debug\TypesData.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\TypesData\TypesData\bin\Debug\TypesData.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\TypesData\TypesData\bin\Debug\TypesData.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\TypesData\TypesData\obj\Debug\TypesData.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\TypesData\TypesData\obj\Debug\TypesData.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\TypesData\TypesData\obj\Debug\TypesData.pdb

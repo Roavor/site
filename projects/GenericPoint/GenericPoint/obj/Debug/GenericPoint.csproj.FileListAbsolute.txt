@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\GenericPoint.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\bin\Debug\GenericPoint.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\obj\Debug\GenericPoint.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\obj\Debug\GenericPoint.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\GenericPoint\GenericPoint\obj\Debug\GenericPoint.pdb

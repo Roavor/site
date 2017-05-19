@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDataReader\AutoLotDataReader\bin\Debug\AutoLotDataReader.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\AutoLotDataReader\AutoLotDataReader\obj\Debug\AutoLotDataReader.pdb

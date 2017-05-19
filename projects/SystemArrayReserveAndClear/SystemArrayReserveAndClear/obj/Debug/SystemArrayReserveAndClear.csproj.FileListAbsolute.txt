@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\SystemArrayReserveAndClear\SystemArrayReserveAndClear\bin\Debug\SystemArrayReserveAndClear.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\SystemArrayReserveAndClear\SystemArrayReserveAndClear\bin\Debug\SystemArrayReserveAndClear.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\SystemArrayReserveAndClear\SystemArrayReserveAndClear\bin\Debug\SystemArrayReserveAndClear.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\SystemArrayReserveAndClear\SystemArrayReserveAndClear\obj\Debug\SystemArrayReserveAndClear.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\SystemArrayReserveAndClear\SystemArrayReserveAndClear\obj\Debug\SystemArrayReserveAndClear.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\SystemArrayReserveAndClear\SystemArrayReserveAndClear\obj\Debug\SystemArrayReserveAndClear.pdb
